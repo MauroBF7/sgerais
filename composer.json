@@ -1,12 +1,12 @@
 {
     "name": "uspdev/starter",
     "type": "project",
-    "description": "Esqueleto para nova aplicação Uspdev",
+    "description": "Aplicação de controle de chamados para manutenção",
     "authors": [
         {
-            "name": "Masaki Kawabata Neto",
-            "email": "kawabata@usp.br",
-            "homepage": "https://github.com/masakik"
+            "name": "Mauro Barbosa Filho",
+            "email": "barbas@usp.br",
+            "homepage": "https://sistemas.prip.usp.br"
         }
     ],
     "keywords": [

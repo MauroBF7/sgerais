@@ -1,7 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
-
+use App\Http\Controllers\DivisaController;
 /*
 |--------------------------------------------------------------------------
 | Web Routes
@@ -13,6 +13,8 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
+//Route::resource('divisas', DivisaController::class);
+Route::resource('divisas', DivisaController::class);
 Route::get('/', function () {
     return view('welcome');
 });

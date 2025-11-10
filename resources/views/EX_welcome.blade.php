@@ -3,10 +3,10 @@
 @section('content')
   <div class="card">
     <div class="card-header h4">
-      Página principal - Chamados de Manutenção - Seção de Serviços Gerais
+      Arquivo README.md
     </div>
     <div class="card-body">
-
+      {!! md2html(file_get_contents(base_path('README.md'))) !!}
     </div>
   </div>
 
