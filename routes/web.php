@@ -2,6 +2,7 @@
 
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\DivisaController;
+use App\Http\Controllers\SecaoController;
 /*
 |--------------------------------------------------------------------------
 | Web Routes
@@ -13,8 +14,12 @@ use App\Http\Controllers\DivisaController;
 |
 */
 
+//Rotas para as Seções em json
+Route::resource('secoes',SecaoController::class);
+
 //Route::resource('divisas', DivisaController::class);
 Route::resource('divisas', DivisaController::class);
+Route::resource('secoes', SecaoController::class);
 Route::get('/', function () {
     return view('welcome');
 });

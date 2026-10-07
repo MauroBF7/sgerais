@@ -1,0 +1,794 @@
+[
+    {
+        "id": 1,
+        "siglaDiv": "SvAdm",
+        "sigla": "SCPES",
+        "descricao": "SEÇÃO DE PESSOAL"
+    },
+    {
+        "id": 2,
+        "siglaDiv": "SvAdm",
+        "sigla": "SCSVGER",
+        "descricao": "SEÇÃO DE SERVIÇOS GERAIS"
+    },
+    {
+        "id": 3,
+        "siglaDiv": "SvAdm",
+        "sigla": "SVATAP-35",
+        "descricao": "Serviço de Atividades de Apoio"
+    },
+    {
+        "id": 4,
+        "siglaDiv": "SvAdm",
+        "sigla": "SCSVGER",
+        "descricao": "SEÇÃO DE SERVIÇOS GERAIS"
+    },
+    {
+        "id": 5,
+        "siglaDiv": "SvAdm",
+        "sigla": "SCTRANS",
+        "descricao": "SEÇÃO DE TRANSPORTES"
+    },
+    {
+        "id": 6,
+        "siglaDiv": "SvAdm",
+        "sigla": "SVMANOB",
+        "descricao": "SERVIÇO DE MANUTENÇÃO E OBRAS"
+    },
+    {
+        "id": 7,
+        "siglaDiv": "SvAdm",
+        "sigla": "STMANPR",
+        "descricao": "SETOR DE MANUTENÇÃO PREDIAL"
+    },
+    {
+        "id": 8,
+        "siglaDiv": "DvAlim",
+        "sigla": "STOFOPC",
+        "descricao": "SETOR DE OFICINAS E OPERAÇÃO DE CALDEIRAS"
+    },
+    {
+        "id": 9,
+        "siglaDiv": "DvAlim",
+        "sigla": "SCRCOCESP-35",
+        "descricao": "SERVIÇO DE RESTAURANTE DA COCESP"
+    },
+    {
+        "id": 10,
+        "siglaDiv": "DvAlim",
+        "sigla": "STDGM I-35",
+        "descricao": "Setor de Distribuição de Gêneros e Materiais"
+    },
+    {
+        "id": 11,
+        "siglaDiv": "DvAlim",
+        "sigla": "STDGM II-35",
+        "descricao": "Setor de Distribuição de Gêneros e Materiais"
+    },
+    {
+        "id": 12,
+        "siglaDiv": "DvAlim",
+        "sigla": "STDIST I-RC-35",
+        "descricao": "Setor de Distribuição I - Rc"
+    },
+    {
+        "id": 13,
+        "siglaDiv": "DvAlim",
+        "sigla": "STDIST II-RCPCO",
+        "descricao": "Setor de Distribuição II PUSP"
+    },
+    {
+        "id": 14,
+        "siglaDiv": "DvAlim",
+        "sigla": "STNUTIQ",
+        "descricao": "SETOR DE NUTRIÇÃO IQ"
+    },
+    {
+        "id": 15,
+        "siglaDiv": "DvAlim",
+        "sigla": "STNUTR FSP-35",
+        "descricao": "Setor de Nutrição Fsp"
+    },
+    {
+        "id": 16,
+        "siglaDiv": "DvAlim",
+        "sigla": "SVDGM",
+        "descricao": "SERVIÇO DE DISTRIBUIÇÃO GÊNEROS E MATERIAIS"
+    },
+    {
+        "id": 17,
+        "siglaDiv": "DvAlim",
+        "sigla": "STADGM",
+        "descricao": "SETOR DE APOIO DISTR. GÊNEROS MATER"
+    },
+    {
+        "id": 18,
+        "siglaDiv": "DvAlim",
+        "sigla": "STDGM I-35",
+        "descricao": "Setor de Distribuição de Gêneros e Materiais"
+    },
+    {
+        "id": 19,
+        "siglaDiv": "DvAlim",
+        "sigla": "STDGM II-35",
+        "descricao": "Setor de Distribuição de Gêneros e Materiais"
+    },
+    {
+        "id": 20,
+        "siglaDiv": "DvAlim",
+        "sigla": "SVMANAL-35",
+        "descricao": "Serviço de Manutenção Alimentação"
+    },
+    {
+        "id": 21,
+        "siglaDiv": "DvAlim",
+        "sigla": "SVRCENT",
+        "descricao": "SERVIÇO DE RESTAURANTE CENTRAL"
+    },
+    {
+        "id": 22,
+        "siglaDiv": "DvAlim",
+        "sigla": "STNIIRC",
+        "descricao": "SETOR DE NUTRIÇÃO II - REST. CENTRAL"
+    },
+    {
+        "id": 23,
+        "siglaDiv": "DvAlim",
+        "sigla": "STNIRC",
+        "descricao": "SETOR DE NUTRIÇÃO I - REST. CENTRAL"
+    },
+    {
+        "id": 24,
+        "siglaDiv": "DvAlim",
+        "sigla": "SVRCOCESP-35",
+        "descricao": "SERVIÇO DE RESTAURANTE DA PUSP"
+    },
+    {
+        "id": 25,
+        "siglaDiv": "DvAlim",
+        "sigla": "SVRDOC",
+        "descricao": "SERVIÇO RESTAURANTE DOS DOCENTES"
+    },
+    {
+        "id": 26,
+        "siglaDiv": "DvAlim",
+        "sigla": "STBARN",
+        "descricao": "SETOR DE BAR NOTURNO"
+    },
+    {
+        "id": 27,
+        "siglaDiv": "DvAlim",
+        "sigla": "STCHURR",
+        "descricao": "SETOR DE CHURRASCARIA"
+    },
+    {
+        "id": 28,
+        "siglaDiv": "DvAlim",
+        "sigla": "STSELFS",
+        "descricao": "SETOR DE SELF SERVICE"
+    },
+    {
+        "id": 29,
+        "siglaDiv": "DvAlim",
+        "sigla": "SVREACH",
+        "descricao": "SERVIÇO RESTAURANTE EACH"
+    },
+    {
+        "id": 30,
+        "siglaDiv": "DvAlim",
+        "sigla": "SVREEL-35",
+        "descricao": "SERVIÇO RESTAURANTE DE LORENA"
+    },
+    {
+        "id": 31,
+        "siglaDiv": "DvAlim",
+        "sigla": "SVRESEE",
+        "descricao": "SERVIÇO DE REST. DA ESCOLA DE ENFERMAGEM"
+    },
+    {
+        "id": 32,
+        "siglaDiv": "DvAlim",
+        "sigla": "SVRESFD",
+        "descricao": "SERVIÇO DE RESTAURANTE XI DE AGOSTO"
+    },
+    {
+        "id": 33,
+        "siglaDiv": "DvAlim",
+        "sigla": "STNUTFD",
+        "descricao": "SETOR DE NUTRIÇÃO-XI DE AGOSTO"
+    },
+    {
+        "id": 34,
+        "siglaDiv": "DvAlim",
+        "sigla": "SVRESIF",
+        "descricao": "SERVIÇO DO REST. DO INSTITUTO DE FÍSICA"
+    },
+    {
+        "id": 35,
+        "siglaDiv": "DvAlim",
+        "sigla": "STNUIF",
+        "descricao": "SETOR DE NUTRIÇÃO DO IF"
+    },
+    {
+        "id": 36,
+        "siglaDiv": "DvAlim",
+        "sigla": "SVRESIQ",
+        "descricao": "SERVIÇO DO REST. DO INSTITUTO DE QUÍMICA"
+    },
+    {
+        "id": 37,
+        "siglaDiv": "DvAlim",
+        "sigla": "SVREST PUSP-35",
+        "descricao": "SERVIÇO RESTAURANTE - PUSP"
+    },
+    {
+        "id": 38,
+        "siglaDiv": "DvAlim",
+        "sigla": "SVRFSP",
+        "descricao": "SERVIÇO RESTAURANTE DA FSP"
+    },
+    {
+        "id": 39,
+        "siglaDiv": "DvAlim",
+        "sigla": "SVRPCO",
+        "descricao": "SERVIÇOS DE RESTAURANTE DA PUSP"
+    },
+    {
+        "id": 40,
+        "siglaDiv": "DvAlim",
+        "sigla": "SCCR-RP-35",
+        "descricao": "Seção de Creche - RP"
+    },
+    {
+        "id": 41,
+        "siglaDiv": "DvCreches",
+        "sigla": "SCCREC-CC-35",
+        "descricao": "Seção de Creche CC"
+    },
+    {
+        "id": 42,
+        "siglaDiv": "DvCreches",
+        "sigla": "SCCREC-CO-35",
+        "descricao": "Seção de Creche - CO"
+    },
+    {
+        "id": 43,
+        "siglaDiv": "DvCreches",
+        "sigla": "SCCREC-SC-35",
+        "descricao": "Seção de Creche - SC"
+    },
+    {
+        "id": 44,
+        "siglaDiv": "DvCreches",
+        "sigla": "SCPRESC-CC-35",
+        "descricao": "Seção de Pré-escola-CC"
+    },
+    {
+        "id": 45,
+        "siglaDiv": "DvCreches",
+        "sigla": "SCPRESC-CO-35",
+        "descricao": "Seção de Pré-escola - CO"
+    },
+    {
+        "id": 46,
+        "siglaDiv": "DvCreches",
+        "sigla": "SCPRESC-RP-35",
+        "descricao": "Seção de Pré-escola - Rp"
+    },
+    {
+        "id": 47,
+        "siglaDiv": "DvCreches",
+        "sigla": "SCPRESC-SC-35",
+        "descricao": "Seção de Pré-escola - Sc"
+    },
+    {
+        "id": 48,
+        "siglaDiv": "DvCreches",
+        "sigla": "SCRPRESC-FSP",
+        "descricao": "Seção de Creche e Pré-escola - Fsp"
+    },
+    {
+        "id": 49,
+        "siglaDiv": "DvCreches",
+        "sigla": "STSNUTR-CC-35",
+        "descricao": "Setor de Saúde e Nutrição - Cc"
+    },
+    {
+        "id": 50,
+        "siglaDiv": "DvCreches",
+        "sigla": "STSNUTR-CO-35",
+        "descricao": "Setor de Saúde e Nutrição - Co"
+    },
+    {
+        "id": 51,
+        "siglaDiv": "DvCreches",
+        "sigla": "STSNUTR-RP-35",
+        "descricao": "Setor de Saúde e Nutrição - Rp"
+    },
+    {
+        "id": 52,
+        "siglaDiv": "DvCreches",
+        "sigla": "STSNUTR-SC-35",
+        "descricao": "Setor de Saúde e Nutrição - Sc"
+    },
+    {
+        "id": 53,
+        "siglaDiv": "DvCreches",
+        "sigla": "SVCRCEN",
+        "descricao": "SERVIÇO CRECHE CENTRAL"
+    },
+    {
+        "id": 54,
+        "siglaDiv": "DvCreches",
+        "sigla": "STCR-CRCEN",
+        "descricao": "SETOR DE CRECHE-CRECHE CENTRAL"
+    },
+    {
+        "id": 55,
+        "siglaDiv": "DvCreches",
+        "sigla": "STPESCI-CC",
+        "descricao": "SETOR DE PRÉ-ESCOLA I - CRECHE CENTRAL"
+    },
+    {
+        "id": 56,
+        "siglaDiv": "DvCreches",
+        "sigla": "STPESCII-CC ",
+        "descricao": "SETOR DE PRÉ-ESCOLA II - CRECHE CENTRAL"
+    },
+    {
+        "id": 57,
+        "siglaDiv": "DvCreches",
+        "sigla": "STSANUT-CC",
+        "descricao": "SETOR DE SAÚDE E NUTRIÇÃO - CRECHE CENTRAL"
+    },
+    {
+        "id": 58,
+        "siglaDiv": "DvCreches",
+        "sigla": "STSNUTR-CC-35",
+        "descricao": "Setor de Saúde e Nutrição - Cc"
+    },
+    {
+        "id": 59,
+        "siglaDiv": "DvCreches",
+        "sigla": "SVCREC-SC-35",
+        "descricao": "Serviço de Creche - Sc"
+    },
+    {
+        "id": 60,
+        "siglaDiv": "DvCreches",
+        "sigla": "SVCREOESTE",
+        "descricao": "SERVIÇO DE CRECHE OESTE"
+    },
+    {
+        "id": 61,
+        "siglaDiv": "DvCreches",
+        "sigla": "STCR-CROES",
+        "descricao": "SETOR DE CRECHE - CRECHE OESTE"
+    },
+    {
+        "id": 62,
+        "siglaDiv": "DvCreches",
+        "sigla": "STPRESC-CO",
+        "descricao": "SETOR DE PRÉ-ESCOLA - CRECHE OESTE"
+    },
+    {
+        "id": 63,
+        "siglaDiv": "DvCreches",
+        "sigla": "STSANUT-CO",
+        "descricao": "SETOR DE SAÚDE E NUTRIÇÃO - CRECHE OESTE"
+    },
+    {
+        "id": 64,
+        "siglaDiv": "DvCreches",
+        "sigla": "STSNUTR-CO-35",
+        "descricao": "Setor de Saúde e Nutrição - Co"
+    },
+    {
+        "id": 65,
+        "siglaDiv": "DvCreches",
+        "sigla": "SVCRRP",
+        "descricao": "SERVIÇO DE CRECHE DE RIBEIRÃO PRETO"
+    },
+    {
+        "id": 66,
+        "siglaDiv": "DvCreches",
+        "sigla": "STCR-CRRP",
+        "descricao": "SETOR DE CRECHE - CRECHE RIBEIRÃO PRETO"
+    },
+    {
+        "id": 67,
+        "siglaDiv": "DvCreches",
+        "sigla": "STPRES-CRP",
+        "descricao": "SETOR DE PRÉ-ESCOLA - CRECHE RIB. PRETO"
+    },
+    {
+        "id": 68,
+        "siglaDiv": "DvCreches",
+        "sigla": "STSANU-CRP",
+        "descricao": "SETOR DE SAÚDE E NUTRIÇÃO - CRECHE RIB. PRETO"
+    },
+    {
+        "id": 69,
+        "siglaDiv": "DvCreches",
+        "sigla": "STSNUTR-RP-35",
+        "descricao": "Setor de Saúde e Nutrição - Rp"
+    },
+    {
+        "id": 70,
+        "siglaDiv": "DvCreches",
+        "sigla": "SVCRSAUDE",
+        "descricao": "SERVIÇO DE CRECHE DA SAÚDE"
+    },
+    {
+        "id": 71,
+        "siglaDiv": "SvFinan",
+        "sigla": "SVCONT-35",
+        "descricao": "Serviço de Contabilidade"
+    },
+    {
+        "id": 72,
+        "siglaDiv": "SvFinan",
+        "sigla": "SCALMOX",
+        "descricao": "SEÇÃO DE ALMOXARIFADO"
+    },
+    {
+        "id": 73,
+        "siglaDiv": "SvFinan",
+        "sigla": "SCCOAL",
+        "descricao": "SEÇÃO DE CONTRATOS E ADM. DE LANCHONETES"
+    },
+    {
+        "id": 74,
+        "siglaDiv": "SvFinan",
+        "sigla": "SCCOMPR",
+        "descricao": "SEÇÃO DE COMPRAS"
+    },
+    {
+        "id": 75,
+        "siglaDiv": "SvFinan",
+        "sigla": "STCAL-35",
+        "descricao": "Setor de Contratos e Apoio A Licitações"
+    },
+    {
+        "id": 76,
+        "siglaDiv": "SvFinan",
+        "sigla": "SCPATR",
+        "descricao": "SEÇÃO DE PATRIMÔNIO"
+    },
+    {
+        "id": 77,
+        "siglaDiv": "SvFinan",
+        "sigla": "SCTESOU",
+        "descricao": "SEÇÃO DE TESOURARIA"
+    },
+    {
+        "id": 78,
+        "siglaDiv": "SvFinan",
+        "sigla": "RUCARD - REFEIÇÕES",
+        "descricao": "RUCARD- Restaurantes Universitários"
+    },
+    {
+        "id": 79,
+        "siglaDiv": "DPSE",
+        "sigla": "CLIODONT-35",
+        "descricao": "Seção Técnica de Clínica Odontológica"
+    },
+    {
+        "id": 80,
+        "siglaDiv": "DPSE",
+        "sigla": "SCIDENT",
+        "descricao": "SEÇÃO DE IDENTIFICAÇÃO USP E PASSE ESCOLAR"
+    },
+    {
+        "id": 81,
+        "siglaDiv": "DPSE",
+        "sigla": "SCPAESC-35",
+        "descricao": "Seção de Passe Escolar"
+    },
+    {
+        "id": 82,
+        "siglaDiv": "DPSE",
+        "sigla": "SCZEMANUT-35",
+        "descricao": "Seção de Zeladoria e Manutenção"
+    },
+    {
+        "id": 83,
+        "siglaDiv": "DPSE",
+        "sigla": "STSEGCEQ-I-35",
+        "descricao": "Setor de Segurança Comunitária Equipe I"
+    },
+    {
+        "id": 84,
+        "siglaDiv": "DPSE",
+        "sigla": "STSEGCEQ-II-35",
+        "descricao": "Setor de Segurança Comunitária Equipe II"
+    },
+    {
+        "id": 85,
+        "siglaDiv": "DPSE",
+        "sigla": "STSEGCEQ-III ",
+        "descricao": "Setor de Segurança Comunitária Equipe III"
+    },
+    {
+        "id": 86,
+        "siglaDiv": "DPSE",
+        "sigla": "SVATCOM",
+        "descricao": "SERVIÇO DE ATUAÇÃO COMUNITÁRIA \/ SOCIAL"
+    },
+    {
+        "id": 87,
+        "siglaDiv": "DPSE",
+        "sigla": "SVATCOSEG-35",
+        "descricao": "Serviço de Atuação Comunitária e Segurança"
+    },
+    {
+        "id": 88,
+        "siglaDiv": "DPSE",
+        "sigla": "SVMORAD",
+        "descricao": "SERVIÇO DE MORADIA"
+    },
+    {
+        "id": 89,
+        "siglaDiv": "DPSE",
+        "sigla": "SVSOC-35",
+        "descricao": "Serviço Social"
+    },
+    {
+        "id": 90,
+        "siglaDiv": "SvAdm",
+        "sigla": "POOL TRANSP",
+        "descricao": "Serviços de Transportes"
+    },
+    {
+        "id": 91,
+        "siglaDiv": "PRIP",
+        "sigla": "PRIP",
+        "descricao": "Pró Reitoria de Inclusão e Pertencimento"
+    },
+    {
+        "id": 92,
+        "siglaDiv": "PRIP",
+        "sigla": "DIREITOSHUMANOS",
+        "descricao": "Diretoria de Direitos Humanos"
+    },
+    {
+        "id": 93,
+        "siglaDiv": "PRIP",
+        "sigla": "DVADMFIN",
+        "descricao": "Divisão Técnica Administrativa e Financeira"
+    },
+    {
+        "id": 94,
+        "siglaDiv": "PRIP",
+        "sigla": "SVADM",
+        "descricao": "Serviço Administrativo"
+    },
+    {
+        "id": 95,
+        "siglaDiv": "SvAdm",
+        "sigla": "SCEXP",
+        "descricao": "Seção de Expediente"
+    },
+    {
+        "id": 96,
+        "siglaDiv": "SvAdm",
+        "sigla": "SCSGER",
+        "descricao": "Seção de Serviços Gerais"
+    },
+    {
+        "id": 97,
+        "siglaDiv": "SvAdm",
+        "sigla": "SCTRANSP",
+        "descricao": "Seção de Transportes"
+    },
+    {
+        "id": 98,
+        "siglaDiv": "SvAdm",
+        "sigla": "STINFOR",
+        "descricao": "Seção Técnica de Informática"
+    },
+    {
+        "id": 99,
+        "siglaDiv": "PRIP",
+        "sigla": "SVFIN",
+        "descricao": "Serviço Financeiro"
+    },
+    {
+        "id": 100,
+        "siglaDiv": "SvFinan",
+        "sigla": "SCALMOX",
+        "descricao": "Seção de Almoxarifado"
+    },
+    {
+        "id": 101,
+        "siglaDiv": "SvFinan",
+        "sigla": "SCCOMPR",
+        "descricao": "Seção de Compras"
+    },
+    {
+        "id": 102,
+        "siglaDiv": "SvFinan",
+        "sigla": "STCAL",
+        "descricao": "Setor de Contratos e Apoio a Licitação"
+    },
+    {
+        "id": 103,
+        "siglaDiv": "SvFinan",
+        "sigla": "SCPATR",
+        "descricao": "Seção de Patrimônio"
+    },
+    {
+        "id": 104,
+        "siglaDiv": "SvFinan",
+        "sigla": "SCTCONT",
+        "descricao": "Seção Técnica de Contabilidade"
+    },
+    {
+        "id": 105,
+        "siglaDiv": "SvFinan",
+        "sigla": "SCTESOU",
+        "descricao": "Seção de Tesouraria"
+    },
+    {
+        "id": 106,
+        "siglaDiv": "PRIP",
+        "sigla": "FORMEVIDA",
+        "descricao": "Diretoria de Formação e Vida Profissional"
+    },
+    {
+        "id": 107,
+        "siglaDiv": "PRIP",
+        "sigla": "MULRELETNICRDIVER",
+        "descricao": "Diretoria de Mulheres, Rel Étnico Raciais e Diver"
+    },
+    {
+        "id": 108,
+        "siglaDiv": "PRIP",
+        "sigla": "SAUDEMENTAL",
+        "descricao": "Diretoria de Saúde Mental e Bem Estar Social"
+    },
+    {
+        "id": 109,
+        "siglaDiv": "SvAdm",
+        "sigla": "STINFOR",
+        "descricao": "Seção Técnica de Informática"
+    },
+    {
+        "id": 110,
+        "siglaDiv": "PRIP",
+        "sigla": "VIDACAMPUS",
+        "descricao": "Coordenadoria de Vida no Campus"
+    },
+    {
+        "id": 111,
+        "siglaDiv": "PRIP",
+        "sigla": "DVALIM",
+        "descricao": "Divisão de Alimentação"
+    },
+    {
+        "id": 112,
+        "siglaDiv": "DvAlim",
+        "sigla": "PRODREFRC",
+        "descricao": "Seção de Produção de Refeições - RC"
+    },
+    {
+        "id": 113,
+        "siglaDiv": "DvAlim",
+        "sigla": "SCFISCRT",
+        "descricao": "Seção Técnica de Fiscalização de Rest Terceirizad"
+    },
+    {
+        "id": 114,
+        "siglaDiv": "DvAlim",
+        "sigla": "SCTDGM",
+        "descricao": "Seção Técnica de Distribuição de Gêneros e Materi"
+    },
+    {
+        "id": 115,
+        "siglaDiv": "DvAlim",
+        "sigla": "STDGM",
+        "descricao": "Setor de Distribuição de Gêneros e Materiais I"
+    },
+    {
+        "id": 116,
+        "siglaDiv": "DvAlim",
+        "sigla": "STDGMII",
+        "descricao": "Setor de Distribuição de Gêneros e Materiais II"
+    },
+    {
+        "id": 117,
+        "siglaDiv": "DvAlim",
+        "sigla": "STDISTRC",
+        "descricao": "Setor de Distribuição - RC"
+    },
+    {
+        "id": 118,
+        "siglaDiv": "DvAlim",
+        "sigla": "SVMANAL",
+        "descricao": "Serviço de Manutenção e Alimentação"
+    },
+    {
+        "id": 119,
+        "siglaDiv": "DvAlim",
+        "sigla": "SVRCENT",
+        "descricao": "Serviço de Restaurante Central"
+    },
+    {
+        "id": 120,
+        "siglaDiv": "DvAlim",
+        "sigla": "SVREACH",
+        "descricao": "Serviço o Restaurante da EACH"
+    },
+    {
+        "id": 121,
+        "siglaDiv": "PRIP",
+        "sigla": "DVCRECHE",
+        "descricao": "Divisão de Creches"
+    },
+    {
+        "id": 122,
+        "siglaDiv": "DvCreches",
+        "sigla": "SCCPRESCFSP",
+        "descricao": "Seção de Creche e Pré Escola - FSP"
+    },
+    {
+        "id": 123,
+        "siglaDiv": "DvCreches",
+        "sigla": "SCCRECCC",
+        "descricao": "Seção de Creche Central"
+    },
+    {
+        "id": 124,
+        "siglaDiv": "DvCreches",
+        "sigla": "SCPRESCCC",
+        "descricao": "Seção de Pré Escola - CC"
+    },
+    {
+        "id": 125,
+        "siglaDiv": "DvCreches",
+        "sigla": "STSNUTRCC",
+        "descricao": "Setor de Saúde e Nutrição - CC"
+    },
+    {
+        "id": 126,
+        "siglaDiv": "DvCreches",
+        "sigla": "SVCRCEN",
+        "descricao": "Serviço de Creche Central"
+    },
+    {
+        "id": 127,
+        "siglaDiv": "DvCreches",
+        "sigla": "SVCRECFSP",
+        "descricao": "Serviço de Creche - FSP"
+    },
+    {
+        "id": 128,
+        "siglaDiv": "PRIP",
+        "sigla": "DVPROSOE",
+        "descricao": "Divisão de Promoção Social e Esporte"
+    },
+    {
+        "id": 129,
+        "siglaDiv": "DPSE",
+        "sigla": "SCFOMESP",
+        "descricao": "Seção de Fomento ao Esporte"
+    },
+    {
+        "id": 130,
+        "siglaDiv": "DPSE",
+        "sigla": "SCPAESC",
+        "descricao": "Seção de Passe Escolar"
+    },
+    {
+        "id": 131,
+        "siglaDiv": "DPSE",
+        "sigla": "SCZEMANUT",
+        "descricao": "Seção de Zeladoria e Manutenção"
+    },
+    {
+        "id": 132,
+        "siglaDiv": "DPSE",
+        "sigla": "SVSOC",
+        "descricao": "Serviço Social"
+    }
+]
